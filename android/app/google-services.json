@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519932013329",
+    "project_id": "attandacereportapp",
+    "storage_bucket": "attandacereportapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519932013329:android:1fe01fa387dfc561e43ab0",
+        "android_client_info": {
+          "package_name": "com.example.attandance_report_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519932013329-c40pjlb6pf2stvbafncgmkc62qbi1i7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiVc0ND-zTY6LJyjDAeezO0ZHQaXvzUo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519932013329-c40pjlb6pf2stvbafncgmkc62qbi1i7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
